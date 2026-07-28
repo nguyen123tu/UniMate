@@ -389,7 +389,7 @@ Dự án này sử dụng giấy phép [MIT License](LICENSE).
 
 ## 👨‍💻 Tác Giả
 
-- **Nguyễn Tú** — [GitHub](https://github.com/nguyen123tu)
+- **Nguyễn Từ** — [GitHub](https://github.com/nguyen123tu)
 
 ---
 
