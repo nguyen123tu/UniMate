@@ -1,0 +1,39 @@
+# Dependencies
+node_modules/
+frontend/node_modules/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+backend/__pycache__/
+backend/app/__pycache__/
+**/__pycache__/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Environment variables
+.env
+frontend/.env
+backend/.env
+
+# Build output
+frontend/dist/
+frontend/build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*

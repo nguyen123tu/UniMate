@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #4f46e5;
+  --color-primary-foreground: #ffffff;
+  --color-primary-hover: #4338ca;
+  --color-background: #f3f4f6;
+  --color-surface: #ffffff;
+}
+
+body {
+  background: linear-gradient(135deg, #e0e7ff 0%, #f3f4f6 100%);
+  color: #111827;
+  font-family: 'Inter', system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  min-height: 100vh;
+}
